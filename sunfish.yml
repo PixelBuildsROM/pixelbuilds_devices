@@ -1,0 +1,10 @@
+codename: sunfish
+name: Pixel 4a
+manufacturer: Google
+maintainer: PixelBoot
+maintainer_chat: https://t.me/PixelBootChat
+partition_scheme: ab
+repartitioned: false
+bootloader_keycombo: ["volume down", "power"]
+bootloader_unlock_method: command
+firmware_required: "latest factory images"
