@@ -1,0 +1,47 @@
+[
+  {
+    "codename": "blueline",
+    "manufacturer": "Google",
+    "name": "Pixel 3"
+  },
+  {
+    "codename": "bonito",
+    "manufacturer": "Google",
+    "name": "Pixel 3a XL"
+  },
+  {
+    "codename": "crosshatch",
+    "manufacturer": "Google",
+    "name": "Pixel 3 XL"
+  },
+  {
+    "codename": "liber",
+    "manufacturer": "Motorola",
+    "name": "One Fusion +"
+  },
+  {
+    "codename": "rosemary",
+    "manufacturer": "Xiaomi",
+    "name": "Redmi Note 10S / 11 SE India"
+  },
+  {
+    "codename": "sargo",
+    "manufacturer": "Google",
+    "name": "Pixel 3a"
+  },
+  {
+    "codename": "sunfish",
+    "manufacturer": "Google",
+    "name": "Pixel 4a"
+  },
+  {
+    "codename": "taimen",
+    "manufacturer": "Google",
+    "name": "Pixel 2 XL"
+  },
+  {
+    "codename": "walleye",
+    "manufacturer": "Google",
+    "name": "Pixel 2"
+  }
+]
