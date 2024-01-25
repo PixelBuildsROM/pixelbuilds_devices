@@ -2,51 +2,61 @@
   {
     "codename": "blueline",
     "manufacturer": "Google",
-    "name": "Pixel 3"
+    "name": "Pixel 3",
+    "maintainer": "cool585"
   },
   {
     "codename": "bonito",
     "manufacturer": "Google",
-    "name": "Pixel 3a XL"
+    "name": "Pixel 3a XL",
+    "maintainer": "ExactExampl"
   },
   {
     "codename": "crosshatch",
     "manufacturer": "Google",
-    "name": "Pixel 3 XL"
+    "name": "Pixel 3 XL",
+    "maintainer": "cool585"
   },
   {
     "codename": "liber",
     "manufacturer": "Motorola",
-    "name": "One Fusion +"
+    "name": "One Fusion +",
+    "maintainer": "cool585"
   },
   {
     "codename": "miatoll",
     "manufacturer": "Xiaomi",
-    "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite"
+    "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
+    "maintainer": "clarencelol"
   },
   {
     "codename": "rosemary",
     "manufacturer": "Xiaomi",
-    "name": "Redmi Note 10S / 11 SE India"
+    "name": "Redmi Note 10S / 11 SE India",
+    "maintainer": "windowz414"
   },
   {
     "codename": "sargo",
     "manufacturer": "Google",
-    "name": "Pixel 3a"
+    "name": "Pixel 3a",
+    "maintainer": "ExactExampl"
   },
   {
     "codename": "sunfish",
     "manufacturer": "Google",
-    "name": "Pixel 4a"
+    "name": "Pixel 4a",
+    "maintainer": "PixelBoot"
   },
   {
     "codename": "taimen",
     "manufacturer": "Google",
-    "name": "Pixel 2 XL"
+    "name": "Pixel 2 XL",
+    "maintainer": "PixelBoot"
   },
   {
     "codename": "walleye",
     "manufacturer": "Google",
-    "name": "Pixel 2"
+    "name": "Pixel 2",
+    "maintainer": "PixelBoot"
   }
 ]
