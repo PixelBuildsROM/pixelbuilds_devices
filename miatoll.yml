@@ -8,3 +8,4 @@ repartitioned: false
 bootloader_keycombo: ["volume down", "power"]
 bootloader_unlock_method: miflash
 firmware_required: "latest MIUI 14"
+has_recovery_partition: true
