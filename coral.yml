@@ -1,0 +1,10 @@
+codename: coral
+name: Pixel 4 XL
+manufacturer: Google
+maintainer: PixelBoot
+maintainer_chat: https://t.me/PixelBootChat
+partition_scheme: ab
+repartitioned: false
+bootloader_keycombo: ["volume down", "power"]
+bootloader_unlock_method: command
+firmware_required: "latest factory images"

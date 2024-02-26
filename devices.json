@@ -12,10 +12,22 @@
     "maintainer": "ExactExampl"
   },
   {
+    "codename": "coral",
+    "manufacturer": "Google",
+    "name": "Pixel 4 XL",
+    "maintainer": "PixelBoot"
+  },
+  {
     "codename": "crosshatch",
     "manufacturer": "Google",
     "name": "Pixel 3 XL",
     "maintainer": "cool585"
+  },
+  {
+    "codename": "flame",
+    "manufacturer": "Google",
+    "name": "Pixel 4",
+    "maintainer": "PixelBoot"
   },
   {
     "codename": "liber",
