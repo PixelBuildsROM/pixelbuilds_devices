@@ -7,4 +7,4 @@ partition_scheme: ab
 repartitioned: true
 bootloader_keycombo: ["volume down", "power"]
 bootloader_unlock_method: command
-firmware_required: "latest factory images"
+firmware_required: "latest stock firmware"
