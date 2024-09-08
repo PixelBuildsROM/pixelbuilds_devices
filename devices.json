@@ -60,21 +60,9 @@
     "maintainer": "ExactExampl"
   },
   {
-    "codename": "barbet",
-    "manufacturer": "Google",
-    "name": "Pixel 5a",
-    "maintainer": "PixelBoot"
-  },
-  {
     "codename": "taimen",
     "manufacturer": "Google",
     "name": "Pixel 2 XL",
     "maintainer": "PixelBoot"
   },
-  {
-    "codename": "walleye",
-    "manufacturer": "Google",
-    "name": "Pixel 2",
-    "maintainer": "PixelBoot"
-  }
 ]
