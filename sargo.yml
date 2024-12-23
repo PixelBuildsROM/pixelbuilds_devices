@@ -2,6 +2,7 @@ codename: sargo
 name: Pixel 3a
 manufacturer: Google
 maintainer: ExactExampl
+maintainer_chat: https://t.me/PixelBootChat
 partition_scheme: ab
 repartitioned: false
 bootloader_keycombo: ["volume down", "power"]

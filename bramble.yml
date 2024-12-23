@@ -2,6 +2,7 @@ codename: bramble
 name: Pixel 4a 5G
 manufacturer: Google
 maintainer: ExactExampl
+maintainer_chat: https://t.me/PixelBootChat
 partition_scheme: ab
 repartitioned: false
 has_vendor_boot: true
