@@ -1,0 +1,11 @@
+codename: barbet
+name: Pixel 5a
+manufacturer: Google
+maintainer: PixelBoot
+maintainer_chat: https://t.me/PixelBootChat
+partition_scheme: ab
+repartitioned: false
+has_vendor_boot: true
+bootloader_keycombo: ["volume down", "power"]
+bootloader_unlock_method: command
+firmware_required: "latest stock firmware"
