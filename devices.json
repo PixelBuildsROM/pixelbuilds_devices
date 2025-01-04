@@ -64,5 +64,11 @@
     "manufacturer": "Google",
     "name": "Pixel 2 XL",
     "maintainer": "PixelBoot"
+  },
+  {
+    "codename": "barbet",
+    "manufacturer": "Google",
+    "name": "Pixel 5a",
+    "maintainer": "PixelBoot"
   }
 ]
