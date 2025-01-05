@@ -36,6 +36,18 @@
     "maintainer": "cool585"
   },
   {
+    "codename": "payton",
+    "manufacturer": "Motorola",
+    "name": "Moto X4",
+    "maintainer": "ExactExampl"
+  },
+  {
+    "codename": "hanoip",
+    "manufacturer": "Motorola",
+    "name": "G60/G40 Fusion",
+    "maintainer": "cool585"
+  },
+  {
     "codename": "sargo",
     "manufacturer": "Google",
     "name": "Pixel 3a",
