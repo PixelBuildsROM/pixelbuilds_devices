@@ -5,6 +5,7 @@ maintainer: cool585, semisapeol
 maintainer_chat: https://t.me/PixelBuildsChat
 partition_scheme: ab
 repartitioned: false
+has_vendor_boot: true
 bootloader_keycombo: ["volume down", "power"]
 bootloader_unlock_method: command
 firmware_required: "latest stock firmware"
