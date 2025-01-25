@@ -5,6 +5,7 @@ maintainer: cool585
 maintainer_chat: https://t.me/dxt_official/52585
 partition_scheme: ab
 repartitioned: false
+device.has_recovery_partition: true
 bootloader_keycombo: ["volume down", "power"]
 bootloader_unlock_method: moto-key
 firmware_required: "latest stock firmware"
