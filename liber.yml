@@ -6,5 +6,5 @@ maintainer_chat: https://t.me/dxt_official/52585
 partition_scheme: ab
 repartitioned: false
 bootloader_keycombo: ["volume down", "power"]
-bootloader_unlock_method: command
+bootloader_unlock_method: moto-key
 firmware_required: "latest stock firmware"
