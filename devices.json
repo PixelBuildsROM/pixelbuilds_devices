@@ -82,17 +82,5 @@
     "manufacturer": "Google",
     "name": "Pixel 5a",
     "maintainer": "PixelBoot"
-  },
-  {
-    "codename": "sailfish",
-    "manufacturer": "Google",
-    "name": "Pixel",
-    "maintainer": "PixelBoot"
-  },
-  {
-    "codename": "marlin",
-    "manufacturer": "Google",
-    "name": "Pixel XL",
-    "maintainer": "PixelBoot"
   }
 ]
