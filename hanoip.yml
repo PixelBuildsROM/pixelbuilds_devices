@@ -1,7 +1,7 @@
 codename: hanoip
 name: G60/G40 Fusion
 manufacturer: Motorola
-maintainer: cool585, semisapeol
+maintainer: cool585
 maintainer_chat: https://t.me/PixelBuildsChat
 partition_scheme: ab
 repartitioned: false
