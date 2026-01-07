@@ -1,8 +1,8 @@
 codename: crosshatch
 name: Pixel 3 XL
 manufacturer: Google
-maintainer: cool585, ExactExampl
-maintainer_chat: https://t.me/dxt_official
+maintainer: ExactExampl
+maintainer_chat: https://t.me/PixelBuildsChat
 partition_scheme: ab
 repartitioned: false
 bootloader_keycombo: ["volume down", "power"]
