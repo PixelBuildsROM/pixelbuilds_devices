@@ -8,4 +8,5 @@ repartitioned: false
 has_vendor_boot: true
 bootloader_keycombo: ["volume down", "power"]
 bootloader_unlock_method: command
+bootloader_relockable: true
 firmware_required: "latest stock firmware"
